@@ -1,5 +1,19 @@
 ---
-title: "dhguhl.github.io"
+title: ""
+image: images/dhguhl.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/daniel-guhl-a8318183/
+    - text: GitHub
+      href: https://github.com/dhguhl
+    - text: Email
+      href: mailto:daniel.guhl@hu-berlin.de
+
 ---
 
 This is a Quarto website.

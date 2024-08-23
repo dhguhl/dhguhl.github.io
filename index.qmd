@@ -4,16 +4,21 @@ image: images/dhguhl.jpg
 toc: false
 about: 
   template: trestles
-  image-shape: round
-  image-width: 20em
+  image-shape: rounded
+  image-width: 10em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/daniel-guhl-a8318183/
-    - text: GitHub
-      href: https://github.com/dhguhl
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:daniel.guhl@hu-berlin.de
-
+    - icon: github
+      text: GitHub
+      href: https://github.com/dhguhl
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=NhXfwHcAAAAJ&hl=de&oi=ao
+    #- text: ResearchGate
+    #  href: https://www.researchgate.net/profile/Daniel-Guhl
+    #- text: LinkedIn
+    #  href: https://www.linkedin.com/in/daniel-guhl-a8318183/
 ---
 
 This is a Quarto website.

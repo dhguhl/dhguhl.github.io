@@ -11,7 +11,7 @@ toc: false
 
 [Crossing incentive alignment and adaptive designs in choice-based conjoint: A fruitful endeavor](https://link.springer.com/article/10.1007/s11747-023-00997-5)  
 Verena Sablotny-Wackershauser, Marcel Lichters, *Daniel Guhl*, Paul Bengart, & Bodo Vogt (2024)  
-*Journal of the Academy of Marketing Science*, 52(3), 610-–633  
+*Journal of the Academy of Marketing Science*, 52(3), 610--633  
 [Web Appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11747-023-00997-5/MediaObjects/11747_2023_997_MOESM1_ESM.pdf) [Code & Data {{< ai osf >}}](https://osf.io/e5v4c/)
 
 [Predicting and optimizing marketing performance in dynamic markets](https://link.springer.com/article/10.1007/s00291-024-00755-1)  
@@ -60,7 +60,7 @@ Friederike Paetz & *Daniel Guhl* (2017)
 
 [Multinomial Logit Models in Marketing -- From Fundamentals to State-of-the-Art](https://www.beck-elibrary.de/10.15358/0344-1369-2017-3-32/multinomial-logit-models-in-marketing-from-fundamentals-to-state-of-the-art-jahrgang-39-2017-heft-3?page=1)  
 Ossama Elshiewy, *Daniel Guhl*, & Yasmin Boztug (2017)
-*Marketing ZFP -- Journal of Research and Management*, 39(4), 38--47  
+*Marketing ZFP -- Journal of Research and Management*, 39(3), 32--49  
 [Code {{< fa brands github >}}](https://gist.github.com/dhguhl/f16d755faebbf855ef6cd96786f41337)
 
 [Measuring Marketing Success: Estimating the Effect of Social Media and TV Advertising on Brand Attention](https://www.beck-elibrary.de/10.15358/0344-1369-2016-1/marketing-zfp-jahrgang-38-2016-heft-1)  
@@ -83,7 +83,7 @@ Markus Kunter & *Daniel Guhl* (2010)
 ### Preprints
 
 [Substitution Patterns and Price Response for Plant-Based Meat Alternatives](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/509.pdf)  
-Steffen Jahn, *Daniel Guhl*, and Ainslee Erhard (2024)  
+Steffen Jahn, *Daniel Guhl*, & Ainslee Erhard (2024)  
 *R&R at PNAS*
 
 [Investigating the Impact of Digital Content on Subscription Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900771)  
@@ -91,7 +91,7 @@ Steffen Jahn, *Daniel Guhl*, and Ainslee Erhard (2024)
 *under review*  
 
 [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4933116)  
-Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, and Joe Kook (2024)  
+Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, & Joe Kook (2024)  
 
 [When Zeros Count: Confounding in Preference Heterogeneity and Attribute Non-Attendance](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/482.pdf)  
 Narine Yegoryan, *Daniel Guhl*, & Friederike Paetz (2023)   

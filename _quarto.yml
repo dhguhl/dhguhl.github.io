@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "dhguhl.github.io"
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
+      - teaching.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux # cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

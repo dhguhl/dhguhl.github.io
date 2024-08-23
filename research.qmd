@@ -1,0 +1,97 @@
+---
+title: "Research"
+toc: false
+---
+
+### Journals
+
+[Tracking time-varying brand equity using household panel data](https://www.sciencedirect.com/science/article/pii/S0148296324003035)  
+*Daniel Guhl* (2024)   
+*Jounral of Business Research*, 182, 114799
+
+[Crossing incentive alignment and adaptive designs in choice-based conjoint: A fruitful endeavor](https://link.springer.com/article/10.1007/s11747-023-00997-5)  
+Verena Sablotny-Wackershauser, Marcel Lichters, *Daniel Guhl*, Paul Bengart, & Bodo Vogt (2024)  
+*Journal of the Academy of Marketing Science*, 52(3), 610-–633  
+[Web Appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11747-023-00997-5/MediaObjects/11747_2023_997_MOESM1_ESM.pdf) [Code & Data {{< ai osf >}}](https://osf.io/e5v4c/)
+
+[Predicting and optimizing marketing performance in dynamic markets](https://link.springer.com/article/10.1007/s00291-024-00755-1)  
+*Daniel Guhl*, Friederike Paetz, Udo Wagner, & Michel Wedel (2024)  
+*OR Spectrum*, 46(1), 1--27
+
+[Comparing the effectiveness of rewards and individually targeted coupons in loyalty programs](https://www.sciencedirect.com/science/article/pii/S002243592100049X)  
+Sebastian Gabel & *Daniel Guhl* (2022)  
+*Journal of Retailing*, 98(3), 395--411  
+[Web Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S002243592100049X-mmc1.pdf)
+
+[Price Personalisation Technology in Retail Stores: Examining the Role of Users' Trust.](https://aisel.aisnet.org/icis2020/implement_adopt/implement_adopt/7/)  
+Rabea Schrage, Peter Kenning, *Daniel Guhl*, & Sebastian Gabel (2020)  
+*41st International Conference on Information Systems (ICIS)*   
+
+[Behavioral biases in marketing](https://link.springer.com/article/10.1007/s11747-019-00699-x)  
+Katharina Dowling, *Daniel Guhl*, Daniel Klapper, Martin Spann, Lucas Stich, & Narine Yegoryan (2020)  
+*Journal of the Academy of Marketing Science*, 48(3), 449--477
+
+[Inferring attribute non-attendance using eye tracking in choice-based conjoint analysis](https://www.sciencedirect.com/science/article/pii/S0148296319300803)
+Narine Yegoryan, *Daniel Guhl*, & Daniel Klapper (2020)  
+*Journal of Business Research*, 111, 290--304  
+<!-- [Code {{< fa brands github >}}](https://github.com/nyegoryan/meaal) -->
+
+[Addressing endogeneity in aggregate logit models with time-varying parameters for optimal retail-pricing](https://www.sciencedirect.com/science/article/pii/S037722171930222X)   
+*Daniel Guhl* (2019)  
+*European Journal of Operational Research*, 277, 684--698  
+
+[P2V-MAP: Mapping Market Structures for Large Retail Assortments](https://journals.sagepub.com/doi/10.1177/0022243719833631)  
+Sebastian Gabel, *Daniel Guhl*, & Daniel Klapper (2019)  
+*Journal of Marketing Research*, 56(4), 557--580  
+[Web Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0022243719833631/suppl_file/ds_10.1177_0022243719833631.pdf) [Code {{< fa brands github >}}](https://github.com/sbstn-gbl/p2v-map)
+
+[Flexible estimation of time-varying effects for frequently purchased retail goods: a modeling approach based on household panel data](https://link.springer.com/article/10.1007/s00291-018-0530-6)  
+Bernhard Baumgartner, *Daniel Guhl*, Thomas Kneib, & Winfried J. Steiner (2018)    
+*OR Spectrum*, 40(4), 837--873  
+
+[Estimating time-varying parameters in brand choice models: A semiparametric approach](https://www.sciencedirect.com/science/article/pii/S0167811618300120)  
+*Daniel Guhl*, Bernhard Baumgartner, Thomas Kneib, & Winfried J. Steiner (2018)  
+*International Journal of Research in Marketing*, 35(4), 394--414  
+[Web Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0167811618300120-mmc1.pdf)
+
+[Understanding Differences in Segment-specific Willingness-to-pay for the Fair Trade Label](https://www.beck-elibrary.de/10.15358/0344-1369-2017-4/marketing-zfp-jahrgang-39-2017-heft-4?page=1)  
+Friederike Paetz & *Daniel Guhl* (2017)  
+*Marketing ZFP -- Journal of Research and Management*, 39(4), 38--47
+
+[Multinomial Logit Models in Marketing -- From Fundamentals to State-of-the-Art](https://www.beck-elibrary.de/10.15358/0344-1369-2017-3-32/multinomial-logit-models-in-marketing-from-fundamentals-to-state-of-the-art-jahrgang-39-2017-heft-3?page=1)  
+Ossama Elshiewy, *Daniel Guhl*, & Yasmin Boztug (2017)
+*Marketing ZFP -- Journal of Research and Management*, 39(4), 38--47  
+[Code {{< fa brands github >}}](https://gist.github.com/dhguhl/f16d755faebbf855ef6cd96786f41337)
+
+[Measuring Marketing Success: Estimating the Effect of Social Media and TV Advertising on Brand Attention](https://www.beck-elibrary.de/10.15358/0344-1369-2016-1/marketing-zfp-jahrgang-38-2016-heft-1)  
+*Daniel Guhl*, Hannah Winkler von Mohrenfels, Jannina Abshagen, & Daniel Klapper (2016)  
+*Marketing ZFP -- Journal of Research and Management*, 38(1), 44--54  
+
+[How Customer Satisfaction with Respect to Price and Quality Affects Customer Retention: An Integrated Approach Considering Nonlinear Effects](https://link.springer.com/article/10.1007/s11573-013-0700-6)  
+Winfried J. Steiner, Florian U. Siems, Anett Weber, & *Daniel Guhl* (2014)  
+*Journal of Business Economics*, 84(6), 879--912  
+
+[Carry Over- und Lag-Effekte in der Werbung](https://www.beck-elibrary.de/10.15358/0340-1650-2011-11-571/carry-over-und-lag-effekte-in-der-werbung-jahrgang-40-2011-heft-11?page=1)  
+Hartwig Steffenhagen & *Daniel Guhl* (2011)  
+*WiSt -- Wirtschaftswissenschaftliches Studium*, 40(11), 571--577  
+
+[Die Vorteilhaftigkeit handelsgerichteter Konditionen eines Herstellers -- Ein spieltheoretischer Untersuchungsansatz](https://link.springer.com/article/10.1007/BF03373679)  
+Markus Kunter & *Daniel Guhl* (2010)  
+*Schmalenbachs Zeitschrift fÜr betriebswirtschaftliche Forschung*, 62(7), 744--769  
+
+
+### Preprints
+
+[Substitution Patterns and Price Response for Plant-Based Meat Alternatives](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/509.pdf)  
+Steffen Jahn, *Daniel Guhl*, and Ainslee Erhard (2024)  
+*R&R at PNAS*
+
+[Investigating the Impact of Digital Content on Subscription Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900771)  
+*Daniel Guhl*, Michaela Draganska, & Pradeep Chintagunta (2024)  
+*under review*  
+
+[Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4933116)  
+Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, and Joe Kook (2024)  
+
+[When Zeros Count: Confounding in Preference Heterogeneity and Attribute Non-Attendance](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/482.pdf)  
+Narine Yegoryan, *Daniel Guhl*, & Friederike Paetz (2023)   

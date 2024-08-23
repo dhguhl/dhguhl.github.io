@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Daniel Guhl"
 image: images/dhguhl.jpg
 toc: false
 about: 
@@ -13,18 +13,23 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/dhguhl
-    - text: Google Scholar
+    - text: "{{< ai google-scholar >}} Google Scholar" 
       href: https://scholar.google.com/citations?user=NhXfwHcAAAAJ&hl=de&oi=ao
+    - text: "{{< ai ssrn >}}  SSRN"
+      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2678359  
+    - text: "{{< ai orcid >}} ORCID" 
+      href: https://orcid.org/0000-0003-2114-9405
+    #- text: "{{< ai osf >}} OSF" 
+    #  href: https://osf.io/z8pk8
     #- text: ResearchGate
     #  href: https://www.researchgate.net/profile/Daniel-Guhl
     #- text: LinkedIn
     #  href: https://www.linkedin.com/in/daniel-guhl-a8318183/
 ---
 
-This is a Quarto website.
+# Hi! 
+I am an [Assistant Professor of Consumer Behavior](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/marketing/team/team-1/dr.-daniel-guhl), [School of Business and Economics](https://www.wiwi.hu-berlin.de/en/mainpage), [Humboldt University Berlin](https://www.hu-berlin.de/en). 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research focuses on consumer choice behavior at the intersection of marketing, economics, and applied econometrics, using empirical approaches to provide valuable insights for marketing researchers, policymakers, and practitioners. My work primarily aims to deepen the understanding of individual consumer decision-making, particularly where it diverges from neoclassical economic assumptions. 
 
-```{r}
-1 + 1
-```
+I specialize in the development and application of discrete choice models, utilizing both classical and Bayesian methods to analyze market and experimental data.

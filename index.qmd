@@ -27,9 +27,10 @@ about:
     #  href: https://www.linkedin.com/in/daniel-guhl-a8318183/
 ---
 
-# Hi! 
-I am an [Assistant Professor of Consumer Behavior](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/marketing/team/team-1/dr.-daniel-guhl), [School of Business and Economics](https://www.wiwi.hu-berlin.de/en/mainpage), [Humboldt University Berlin](https://www.hu-berlin.de/en). 
+# Hi!
 
-My research focuses on consumer choice behavior at the intersection of marketing, economics, and applied econometrics, using empirical approaches to provide valuable insights for marketing researchers, policymakers, and practitioners. My work primarily aims to deepen the understanding of individual consumer decision-making, particularly where it diverges from neoclassical economic assumptions. 
+I am an [Assistant Professor of Consumer Behavior](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/marketing/team/team-1/dr.-daniel-guhl), [School of Business and Economics](https://www.wiwi.hu-berlin.de/en/mainpage), [Humboldt University Berlin](https://www.hu-berlin.de/en).
+
+My research focuses on consumer choice behavior at the intersection of marketing, economics, and applied econometrics, using empirical approaches to provide valuable insights for marketing researchers, policymakers, and practitioners. My work primarily aims to deepen the understanding of individual consumer decision-making, particularly where it diverges from neoclassical economic assumptions.
 
 I specialize in developing and applying discrete choice models, utilizing both classical and Bayesian methods to analyze market and experimental data.

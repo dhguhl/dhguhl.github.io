@@ -5,6 +5,10 @@ toc: false
 
 ### Journals
 
+[Substitution Patterns and Price Response for Plant-Based Meat Alternatives](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/509.pdf)\
+Steffen Jahn, *Daniel Guhl*, & Ainslee Erhard (2024)\
+*PNAS*, forthcoming [Code & Data {{< ai osf >}}](https://osf.io/egtuq/)
+
 [Tracking time-varying brand equity using household panel data](https://www.sciencedirect.com/science/article/pii/S0148296324003035)\
 *Daniel Guhl* (2024)\
 *Jounral of Business Research*, 182, 114799
@@ -70,7 +74,6 @@ Ossama Elshiewy, *Daniel Guhl*, & Yasmin Boztug (2017)\
 Winfried J. Steiner, Florian U. Siems, Anett Weber, & *Daniel Guhl* (2014)\
 *Journal of Business Economics*, 84(6), 879--912
 
-```{=html}
 <!-- 
 [Carry Over- und Lag-Effekte in der Werbung](https://www.beck-elibrary.de/10.15358/0340-1650-2011-11-571/carry-over-und-lag-effekte-in-der-werbung-jahrgang-40-2011-heft-11?page=1)  
 Hartwig Steffenhagen & *Daniel Guhl* (2011)  
@@ -80,7 +83,7 @@ Hartwig Steffenhagen & *Daniel Guhl* (2011)
 Markus Kunter & *Daniel Guhl* (2010)  
 *Schmalenbachs Zeitschrift fÜr betriebswirtschaftliche Forschung*, 62(7), 744--769  
 -->
-```
+
 ### Preprints
 
 [Dynamic Heterogeneity in Discrete Choice Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957076)\
@@ -92,10 +95,6 @@ Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, & Joe Kook (2024)
 [Investigating the Impact of Digital Content on Subscription Behavior](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900771)\
 *Daniel Guhl*, Michaela Draganska, & Pradeep Chintagunta (2024)\
 *under review*
-
-[Substitution Patterns and Price Response for Plant-Based Meat Alternatives](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/509.pdf)\
-Steffen Jahn, *Daniel Guhl*, & Ainslee Erhard (2024)\
-*R&R at PNAS*
 
 [When Zeros Count: Confounding in Preference Heterogeneity and Attribute Non-Attendance](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/482.pdf)\
 Narine Yegoryan, *Daniel Guhl*, & Friederike Paetz (2023)

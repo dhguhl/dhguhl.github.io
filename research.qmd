@@ -7,7 +7,8 @@ toc: false
 
 [Substitution Patterns and Price Response for Plant-Based Meat Alternatives](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/509.pdf)\
 Steffen Jahn, *Daniel Guhl*, & Ainslee Erhard (2024)\
-*PNAS*, forthcoming [Code & Data {{< ai osf >}}](https://osf.io/egtuq/)
+*PNAS*, forthcoming\
+[Code & Data {{< ai osf >}}](https://osf.io/egtuq/)
 
 [Tracking time-varying brand equity using household panel data](https://www.sciencedirect.com/science/article/pii/S0148296324003035)\
 *Daniel Guhl* (2024)\

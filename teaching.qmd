@@ -3,20 +3,15 @@ title: "Teaching"
 toc: false
 ---
 
-
-For general information, please visit the website of the [Marketing Institute of HU Berlin](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium). For students who are writing a seminar paper or thesis under at the Marketing Instistute, we also offer an online seminar for self-study ([Introduction to Scientific Work](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/709002-einfuehrung-in-das-wissenschaftliche-arbeiten-020922-1.pdf)).
-
+For general information, please visit the website of the [Marketing Institute (HU Berlin)](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium). For students who are writing a seminar paper or thesis at the Marketing Institute, we also offer additional material for self-study ([Introduction to Scientific Work](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/709002-einfuehrung-in-das-wissenschaftliche-arbeiten-020922-1.pdf)).
 
 ### Bachelor
 
-- Market Research and Marketing Descisions ([lecture, summer term](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-mfme-sose-2024-70687.pdf))
-- Consumer Behavior ([lecture, winter term](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-konsumentenverhalten-ws-24_25-707100.pdf))
-- Marketingmanagement ([seminar, winter term](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-70708-se-zum-marketingmanagement-ws-24_25.pdf))
-- Thesis Seminar ([seminar, each semester](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-709001-studienabschlusssem-marketingkonsumentenverh-ws-24_25.pdf))
+-   Market Research and Marketing Decisions ([lecture, summer term](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-mfme-sose-2024-70687.pdf))
+-   Consumer Behavior ([lecture, winter term](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-konsumentenverhalten-ws-24_25-707100.pdf))
+-   Marketingmanagement ([seminar, winter term](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-70708-se-zum-marketingmanagement-ws-24_25.pdf))
+-   Thesis Seminar ([seminar, each semester](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ba-studiengaenge/syllabus-709001-studienabschlusssem-marketingkonsumentenverh-ws-24_25.pdf))
 
 ### Master
 
-- Causal Inference in Marketing (lecture, summer term)
-
-
-
+-   Causal Inference in Marketing (lecture, summer term)

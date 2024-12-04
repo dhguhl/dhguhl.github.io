@@ -12,7 +12,7 @@ Steffen Jahn, *Daniel Guhl*, & Ainslee Erhard (2024)\
 
 [Tracking time-varying brand equity using household panel data](https://www.sciencedirect.com/science/article/pii/S0148296324003035)\
 *Daniel Guhl* (2024)\
-*Jounral of Business Research*, 182, 114799
+*Journal of Business Research*, 182, 114799
 
 [Crossing incentive alignment and adaptive designs in choice-based conjoint: A fruitful endeavor](https://link.springer.com/article/10.1007/s11747-023-00997-5)\
 Verena Sablotny-Wackershauser, Marcel Lichters, *Daniel Guhl*, Paul Bengart, & Bodo Vogt (2024)\
@@ -75,6 +75,7 @@ Ossama Elshiewy, *Daniel Guhl*, & Yasmin Boztug (2017)\
 Winfried J. Steiner, Florian U. Siems, Anett Weber, & *Daniel Guhl* (2014)\
 *Journal of Business Economics*, 84(6), 879--912
 
+```{=html}
 <!-- 
 [Carry Over- und Lag-Effekte in der Werbung](https://www.beck-elibrary.de/10.15358/0340-1650-2011-11-571/carry-over-und-lag-effekte-in-der-werbung-jahrgang-40-2011-heft-11?page=1)  
 Hartwig Steffenhagen & *Daniel Guhl* (2011)  
@@ -84,7 +85,7 @@ Hartwig Steffenhagen & *Daniel Guhl* (2011)
 Markus Kunter & *Daniel Guhl* (2010)  
 *Schmalenbachs Zeitschrift fÜr betriebswirtschaftliche Forschung*, 62(7), 744--769  
 -->
-
+```
 ### Preprints
 
 [Dynamic Heterogeneity in Discrete Choice Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957076)\

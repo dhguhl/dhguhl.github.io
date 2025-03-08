@@ -75,17 +75,14 @@ Ossama Elshiewy, *Daniel Guhl*, & Yasmin Boztug (2017)\
 Winfried J. Steiner, Florian U. Siems, Anett Weber, & *Daniel Guhl* (2014)\
 *Journal of Business Economics*, 84(6), 879--912
 
-```{=html}
-<!-- 
-[Carry Over- und Lag-Effekte in der Werbung](https://www.beck-elibrary.de/10.15358/0340-1650-2011-11-571/carry-over-und-lag-effekte-in-der-werbung-jahrgang-40-2011-heft-11?page=1)  
-Hartwig Steffenhagen & *Daniel Guhl* (2011)  
+[Carry Over- und Lag-Effekte in der Werbung](https://www.beck-elibrary.de/10.15358/0340-1650-2011-11-571/carry-over-und-lag-effekte-in-der-werbung-jahrgang-40-2011-heft-11?page=1)\
+Hartwig Steffenhagen & *Daniel Guhl* (2011)\
 *WiSt -- Wirtschaftswissenschaftliches Studium*, 40(11), 571--577  
 
-[Die Vorteilhaftigkeit handelsgerichteter Konditionen eines Herstellers -- Ein spieltheoretischer Untersuchungsansatz](https://link.springer.com/article/10.1007/BF03373679)  
-Markus Kunter & *Daniel Guhl* (2010)  
+[Die Vorteilhaftigkeit handelsgerichteter Konditionen eines Herstellers -- Ein spieltheoretischer Untersuchungsansatz](https://link.springer.com/article/10.1007/BF03373679)\
+Markus Kunter & *Daniel Guhl* (2010)\
 *Schmalenbachs Zeitschrift fÜr betriebswirtschaftliche Forschung*, 62(7), 744--769  
--->
-```
+
 ### Preprints
 
 [Create or Curate: The Impact of Content Quantity, Focus and Appeal on Driving Subscriptions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900771)\

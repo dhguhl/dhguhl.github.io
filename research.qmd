@@ -89,7 +89,8 @@ Markus Kunter & *Daniel Guhl* (2010)\
 *Daniel Guhl*, Michaela Draganska, & Pradeep Chintagunta (2025)
 
 [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)\
-Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, & Joe Kook (2024)
+Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, & Joe Kook (2024)\
+R&R at *Marketing Science*
 
 [Dynamic Heterogeneity in Discrete Choice Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957076)\
 Niklas Hagemann, *Daniel Guhl*, Thomas Kneib, Kathrin Möllenhoff, & Winfried J. Steiner (2024)

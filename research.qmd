@@ -93,7 +93,7 @@ Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, & Joe Kook (2024)\
 R&R at *Marketing Science*
 
 [Dynamic Heterogeneity in Discrete Choice Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957076)\
-Niklas Hagemann, *Daniel Guhl*, Thomas Kneib, Kathrin Möllenhoff, & Winfried J. Steiner (2024)/
+Niklas Hagemann, *Daniel Guhl*, Thomas Kneib, Kathrin Möllenhoff, & Winfried J. Steiner (2024)\
 R&R at the *Journal of Applied Econometrics*
 
 [When Zeros Count: Confounding in Preference Heterogeneity and Attribute Non-Attendance](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/482.pdf)\

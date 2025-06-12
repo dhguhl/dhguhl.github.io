@@ -15,4 +15,4 @@ For general information, please visit the website of the [Marketing Institute (H
 ### Master
 
 -   Causal Inference in Marketing ([lecture, summer term](https://www.wiwi.hu-berlin.de/de/professuren/bwl/marketing/studium/ma-studiengaenge/syllabus-causal-inference-in-marketing-707102-sose-25.pdf))
-
+-   Marketing Seminar (seminar, winter term [stay tuned!])

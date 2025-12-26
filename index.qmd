@@ -40,8 +40,8 @@ I specialize in developing and applying discrete choice models, utilizing both c
 
 - **2025-12-21**: New version of my *working paper*: [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)
 - **2025-11-24**: *Talk* at the University of Würzburg: Experimental Evidence on Structural State Dependence in Demand
-- **2025-11-01**: Started as a *tenured* Professor of Consumer Behavior at Humboldt University of Berlin
--**2025-10-29**: New *working paper*: [Anchoring Methods for MaxDiff and Their Predictive Validity in Product Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674983)\
+- **2025-11-01**: Started as a *tenured* Professor of Consumer Behavior at Humboldt University of Berlin  
+- **2025-10-29**: New *working paper*: [Anchoring Methods for MaxDiff and Their Predictive Validity in Product Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674983)\
 Joshua Benjamin Schramm, Marcel Lichters, & *Daniel Guhl* (2025)\
 - **2025-09-29**: *Talk* at CRC 190 Retreat in Ohlstadt: Create or Curate: The Impact of Content Portfolio Characteristics on Driving Subscriptions
 

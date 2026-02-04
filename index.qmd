@@ -35,14 +35,12 @@ My research focuses on consumer choice behavior at the intersection of marketing
 
 I specialize in developing and applying discrete choice models, utilizing both classical and Bayesian methods to analyze market and experimental data.
 
-
 #### News
 
-- **2025-12-21**: New version of my *working paper*: [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)
-- **2025-11-24**: *Talk* at the University of Würzburg: Experimental Evidence on Structural State Dependence in Demand
-- **2025-11-01**: Started as a *tenured* Professor of Consumer Behavior at Humboldt University of Berlin  
-- **2025-10-29**: New *working paper*: [Anchoring Methods for MaxDiff and Their Predictive Validity in Product Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674983)
-- **2025-09-29**: *Talk* at CRC 190 Retreat in Ohlstadt: Create or Curate: The Impact of Content Portfolio Characteristics on Driving Subscriptions
-- **2025-09-02**: I received the *Research Prize (2025, non-tenured researchers)* of the School of Business and Economics (HU) for my PNAS paper on [Substitution Patterns and Price Response for Plant-Based Meat Alternatives](https://www.pnas.org/doi/10.1073/pnas.2319016121)
-
-
+-   **2026-01-28**: *Guest lecture* on Marketing Performance Measurement at Martin-Luther-Universität Halle-Wittenberg
+-   **2025-12-21**: New version of my *working paper*: [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)
+-   **2025-11-24**: *Talk* at the University of Würzburg: Experimental Evidence on Structural State Dependence in Demand
+-   **2025-11-01**: Started as a *tenured* Professor of Consumer Behavior at Humboldt University of Berlin\
+-   **2025-10-29**: New *working paper*: [Anchoring Methods for MaxDiff and Their Predictive Validity in Product Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674983)
+-   **2025-09-29**: *Talk* at CRC 190 Retreat in Ohlstadt: Create or Curate: The Impact of Content Portfolio Characteristics on Driving Subscriptions
+-   **2025-09-02**: I received the *Research Prize (2025, non-tenured researchers)* of the School of Business and Economics (HU) for my PNAS paper on [Substitution Patterns and Price Response for Plant-Based Meat Alternatives](https://www.pnas.org/doi/10.1073/pnas.2319016121)

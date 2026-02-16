@@ -85,6 +85,9 @@ Markus Kunter & *Daniel Guhl* (2010)\
 
 ### Preprints
 
+[Designed Uncertainty in Mystery Products](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/565.pdf)\
+Alaa Elgayar, *Daniel Guhl*, Lucas Stich, & Martin Spann (2026)\
+
 [*k*-MNL: A Grouped Fixed-Effects Approach to Heterogeneous Multinomial Logit Models in Choice-Based Conjoint Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174506)\
 Joshua Benjamin Schramm & *Daniel Guhl* (2026)\
 

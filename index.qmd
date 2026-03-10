@@ -37,6 +37,8 @@ I specialize in developing and applying discrete choice models, utilizing both c
 
 #### News
 
+-   **2026-02-14**: New *working paper*: [Designed Uncertainty in Mystery Products](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/565.pdf)
+-   **2026-02-03**: New *working paper*: [*k*-MNL: A Grouped Fixed-Effects Approach to Heterogeneous Multinomial Logit Models in Choice-Based Conjoint Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174506)
 -   **2026-01-28**: *Guest lecture* on Marketing Performance Measurement at Martin-Luther-Universität Halle-Wittenberg
 -   **2025-12-21**: New version of my *working paper*: [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)
 -   **2025-11-24**: *Talk* at the University of Würzburg: Experimental Evidence on Structural State Dependence in Demand

@@ -37,6 +37,7 @@ I specialize in developing and applying discrete choice models, utilizing both c
 
 #### News
 
+-  **2026-03-30**: New *blog post (CRC TRR 190 Coffee Break on substack)*: [How to Design Mystery Products That Work](https://190researchblog.substack.com/p/mystery)
 -   **2026-02-14**: New *working paper*: [Designed Uncertainty in Mystery Products](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/565.pdf)
 -   **2026-02-03**: New *working paper*: [*k*-MNL: A Grouped Fixed-Effects Approach to Heterogeneous Multinomial Logit Models in Choice-Based Conjoint Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174506)
 -   **2026-01-28**: *Guest lecture* on Marketing Performance Measurement at Martin-Luther-Universität Halle-Wittenberg

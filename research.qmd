@@ -91,17 +91,18 @@ Alaa Elgayar, *Daniel Guhl*, Lucas Stich, & Martin Spann (2026)\
 
 [*k*-MNL: A Grouped Fixed-Effects Approach to Heterogeneous Multinomial Logit Models in Choice-Based Conjoint Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174506)\
 Joshua Benjamin Schramm & *Daniel Guhl* (2026)\
+R&R at the *Journal of Choice Modelling*
 
 [Anchoring Methods for MaxDiff and Their Predictive Validity in Product Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674983)\
 Joshua Benjamin Schramm, Marcel Lichters, & *Daniel Guhl* (2025)\
 
 [Create or Curate: The Impact of Content Quantity, Focus and Appeal on Driving Subscriptions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900771)\
 *Daniel Guhl*, Michaela Draganska, & Pradeep Chintagunta (2025)\
-R&R at the *Journal of Marketing*
+R&R (2nd round) at the *Journal of Marketing*
 
 [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)\
 Sebastian Gabel, *Daniel Guhl*, Günter J. Hitsch, & Joe Kook (2024)\
-R&R at *Marketing Science*
+R&R (2nd round) at *Marketing Science*
 
 [Dynamic Heterogeneity in Discrete Choice Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4957076)\
 Niklas Hagemann, *Daniel Guhl*, Thomas Kneib, Kathrin Möllenhoff, & Winfried J. Steiner (2024)\

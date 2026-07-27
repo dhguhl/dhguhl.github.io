@@ -39,6 +39,7 @@ I specialize in developing and applying discrete choice models, utilizing both c
 
 - **2026-07-27**: Final version of my *working paper*: [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)
 - **2026-06-22**: Great news: My *paper*, [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593), has been conditionally accepted at *Marketing Science*.
+- **2025-06-11**: *Talk* at the *2026 ISMS Marketing Science Conference (NOVA, Lisbon)*: Prices, Consideration, & Choice: Substitution Patterns Between Animal-Based and Plant-Based Burger Patties (working paper with Steffen Jahn and Maja Murr coming soon!)
 - **2026-03-30**: New *blog post (CRC TRR 190 Coffee Break on substack)*: [How to Design Mystery Products That Work](https://190researchblog.substack.com/p/mystery)
 - **2026-02-14**: New *working paper*: [Designed Uncertainty in Mystery Products](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/565.pdf)
 - **2026-02-03**: New *working paper*: [*k*-MNL: A Grouped Fixed-Effects Approach to Heterogeneous Multinomial Logit Models in Choice-Based Conjoint Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6174506)

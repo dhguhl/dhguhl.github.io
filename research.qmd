@@ -85,6 +85,9 @@ Markus Kunter & *Daniel Guhl* (2010)\
 
 ### Preprints
 
+[mxd: Hierarchical Bayesian multinomial logit models for (anchored) MaxDiff in R](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7365630)\
+Joshua Benjamin Schramm & *Daniel Guhl* (2026)\
+
 [Designed Uncertainty in Mystery Products](https://rationality-and-competition.de/wp-content/uploads/discussion_paper/565.pdf)\
 Alaa Elgayar, *Daniel Guhl*, Lucas Stich, & Martin Spann (2026)\
 [Blog post](https://190researchblog.substack.com/p/mystery)

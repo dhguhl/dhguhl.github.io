@@ -37,6 +37,7 @@ I specialize in developing and applying discrete choice models, utilizing both c
 
 #### News
 
+-   **2026-09-26**: I participated (in a team together with Steffen Jahn and many others) in the *Open Science Price Elasticity Project* of Koll *et al.*: [How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights From A Many-Analyst Study](https://osf.io/preprints/psyarxiv/fs3k2_v4).
 -   **2026-08-14**: More great news: My *paper*, [Create or Curate: The Impact of Content Quantity, Focus and Appeal on Driving Subscriptions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900771), has been conditionally accepted at the *Journal of Marketing*.
 -   **2026-07-27**: Final version of my *working paper*: [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593)
 -   **2026-06-22**: Great news: My *paper*, [Experimental Evidence on Structural State Dependence in Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4955593), has been conditionally accepted at *Marketing Science*.
